@@ -14,7 +14,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.openpay.process.model.BitacoraDto;
 import com.openpay.process.model.CharacterDto;
-import com.openpay.process.model.iCharacter;
 import com.openpay.process.service.BitacoraService;
 import com.openpay.process.service.CharacterService;
 
